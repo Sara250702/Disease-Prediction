@@ -60,11 +60,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
 
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 📸 Screenshots
 
